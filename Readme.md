@@ -65,3 +65,8 @@ You can use code from [this repo](https://github.com/anujhsrsaini/Play-Store-Rev
 
 Thanks to the developers of NLTK, Gensim, and WordCloud for their excellent libraries.
 Special thanks to the open-source community for valuable contributions.
+
+
+## Authors
+
+- **[Anuj Saini](https://www.linkedin.com/in/anuj-saini-7230a0257/)**
